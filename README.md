@@ -2,7 +2,7 @@
 
 ## Non-functional code to follow the lyrics of the song Bohemian Rhapsody.
 
-**NOTE**: This project compiles, and all code access real types defined in the unit. It just quite literally does nothing, other than create a Delphi code version of the song's lyrics.
+**NOTE**: This project compiles, and all code accesses real (fake) types defined in the unit. It just quite literally does nothing, other than create a Delphi code version of the song's lyrics.
 
 **NOTE**: Please contribute. This is only the intro. I'd love to see people submit their ideas for the rest of the song. 
 
